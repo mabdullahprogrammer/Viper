@@ -1,4 +1,15 @@
 {
   "version": "1.0",
-  "daily_news": "Welcome Hackers to the first release of VIPER"
+  "daily_news": "Welcome Hackers to the first release of VIPER",
+  "loclx": "None",
+  "ssh_key": "False",
+  "redirect": "None",
+  "template": "default_site/",
+  "port": "4445",
+  "site_move": "False",
+  "mask": "the-best-and-safe-website-visitor-of-all-the-time",
+  "cf-url": "None",
+  "lx-url": "None",
+  "lhr-url": "None",
+  "svo-url": "None"
 }
