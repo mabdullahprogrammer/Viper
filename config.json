@@ -2,7 +2,7 @@
   "version": "1.0",
   "daily_news": "Welcome Hackers to the new release of VIPER",
   "loclx": "False",
-  "ssh_key": 'False',
+  "ssh_key": "False",
   "redirect": null,
   "template": "default_site/",
   "port": 4445,
