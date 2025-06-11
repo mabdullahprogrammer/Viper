@@ -1,15 +1,18 @@
 {
   "version": "1.0",
-  "daily_news": "Welcome Hackers to the first release of VIPER",
-  "loclx": "None",
-  "ssh_key": "False",
-  "redirect": "None",
+  "daily_news": "Welcome Hackers to the new release of VIPER",
+  "loclx": "False",
+  "ssh_key": 'False',
+  "redirect": null,
   "template": "default_site/",
-  "port": "4445",
-  "site_move": "False",
+  "port": 4445,
+  "site_move": false,
+  "tunneling_service": false,
   "mask": "the-best-and-safe-website-visitor-of-all-the-time",
-  "cf-url": "None",
-  "lx-url": "None",
-  "lhr-url": "None",
-  "svo-url": "None"
+  "cf-url": null,
+  "lx-url": null,
+  "lhr-url": null,
+  "svo-url": null,
+  "dailyNews": true,
+  "tempMail": false
 }
